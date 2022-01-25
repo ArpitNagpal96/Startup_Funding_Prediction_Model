@@ -1,0 +1,5 @@
+A startup or start-up is a company or project begun by an entrepreneur to seek, develop, and validate a scalable business model. While entrepreneurship refers to all new businesses, including self-employment and businesses that never intend to become registered, startups refer to new businesses that intend to grow large beyond the solo founder. Startups face high uncertainty and have high rates of failure, but a minority of them do go on to be successful and influential. Some startups become unicorns: privately held startup companies valued at over US$1 billion.
+
+One of the startup's first tasks is raising a substantial amount of money to further develop the product. To do that, they have to make a strong argument, if not a prototype, that supports their claim that their idea is truly new or a great improvement to something on the market.
+
+The aim of this project is to build a regression model for the prediction of total funding of a startup (in USD) based on predictors such as market/industry, startup founding date or seed funding amount to aid the predictions evaluation of a given startup, provided the details of the desired predictors
